@@ -1,3 +1,4 @@
 This .txt file is for learning the GIT commands.
 Added second row to the .txt file. Trying to fix GPG signing.
 Third row for GPG signing.
+Fourth row for GPG testing.
